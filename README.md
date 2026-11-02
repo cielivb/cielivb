@@ -4,7 +4,7 @@ Bioinformatics graduate interested in neuroscience, computational biology, resea
 
 **Current Focus**: 
 1. Development of [ReprMeta](https://github.com/TheReprCheckProject/ReprMeta), a practical tool for accelerating reproducibility metadata annotation.
-2. Investigating evidence for the occurrence and potential function of magnetite within nervous systems.
+2. Levelling up my computational neuroscience skills!
 
 ## Areas of Interest
 - Evolutionary and developmental neuroscience across scales
