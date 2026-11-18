@@ -1,18 +1,7 @@
 # Ciel Ivy-Lee Baumann
 
-Bioinformatics graduate interested in neuroscience, computational biology, research software engineering, and reproducible science.
-
-**Current Focus**: 
-1. Development of [ReprMeta](https://github.com/TheReprCheckProject/ReprMeta), a practical tool for accelerating reproducibility metadata annotation.
-2. Levelling up my computational neuroscience skills!
-
-## Areas of Interest
-- Evolutionary and developmental neuroscience across scales
-- Integrative bioinformatics and computational biology
-- Research software engineering and reproducible science
-- Graph theory and algorithm design
-- Understanding the fundamental principles of nervous systems
-- Generating leads for neurological disorder research
+**Currently working on**: a replication of [Ziats &amp; Rennert, 2014](https://doi.org/10.1038/mp.2013.93) \
+**Website**: https://cielresearch.github.io/
 
 ## Featured Projects
 
